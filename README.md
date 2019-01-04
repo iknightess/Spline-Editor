@@ -5,7 +5,7 @@ Spline Editor Implementation for Unity3D via Editor Scripts. Lets the user creat
 
 ## Documentation 
 
-You can find the documentation [here](https://iknightess.github.io/SplineEditor_Documentation/)
+You can find the documentation [here](https://iknightess.github.io/SplineEditor_Documentation/annotated.html)
 
 ## Class Summary
 **CurvePoint** represents a single point in the spline. Has an anchor point and two control points.
